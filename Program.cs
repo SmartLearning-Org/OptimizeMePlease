@@ -24,7 +24,7 @@ namespace OptimizeMePlease
         {
 
             //Comment me after first execution, please.
-            IWillPopulateData();
+            //IWillPopulateData();
 
             BenchmarkRunner.Run<BenchmarkService>();
         }
